@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>读者主页</title>
+    <link rel="stylesheet" href="../../bootstrap/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="../../bootstrap/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="../../bootstrap/css/bootstrap-admin-theme.css"/>
+    <script type="text/javascript" src="../../jquery/jquery.min.js"></script>
+    <script type="text/javascript" src="../../bootstrap/js/bootstrap.min.js"></script>
+</head>
+<body class="bootstrap-admin-with-small-navbar">
+<nav class="navbar navbar-inverse navbar-fixed-top bootstrap-admin-navbar bootstrap-admin-navbar-under-small"
+     role="navigation">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="collapse navbar-collapse main-navbar-collapse">
+                    <a class="navbar-brand" href="#"><strong>欢迎使用图书馆管理系统</strong></a>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                欢迎您，admin
+                                <i class="caret"></i>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <a href="#updateinfo" data-toggle="modal">个人资料</a>
+                                </li>
+                                <li role="presentation" class="divider"></li>
+                                <li>
+                                    <a href="#updatepwd" data-toggle="modal">修改密码</a>
+                                </li>
+                                <li role="presentation" class="divider"></li>
+                                <li>
+                                    <a href="#">退出</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <button type="button" class="btn btn-default btn-sm " id="btn_login"
+                                data-dismiss="modal">登录
+                        </button>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<!--中间内容-->
+<div class="container">
+    <div class="row">
+        <div class="col-md-2 bootstrap-admin-col-left">
+            <ul class="nav navbar-collapse collapse bootstrap-admin-navbar-side">
+                <li>
+                    <a href="book.html"><i
+                            class="glyphicon glyphicon-chevron-right"></i> 图书查询</a>
+                </li>
+
+                <!-- 判断是否登录 -->
+                <li>
+                    <a href="borrow.html"><i
+                            class="glyphicon glyphicon-chevron-right"></i> 借阅信息</a>
+                </li>
+
+                <!-- 判断是否登录 -->
+                <li>
+                    <a href="forfeit.html"><i
+                            class="glyphicon glyphicon-chevron-right"></i> 逾期信息</a>
+                </li>
+
+            </ul>
+        </div>
+        <div class="col-md-10">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <div class="text-muted bootstrap-admin-box-title">图书查询</div>
+                        </div>
+                        <div class="bootstrap-admin-panel-content">
+                            <ul>
+                                <li>根据图书编号、图书名称查询图书信息</li>
+                                <li>可查询图书的编号、名称、分类、作者、价格、在馆数量等</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 判断用户是否登录 -->
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <div class="text-muted bootstrap-admin-box-title">借阅信息</div>
+                        </div>
+                        <div class="bootstrap-admin-panel-content">
+                            <ul>
+                                <li>根据借阅编号、图书名称查询自己借阅的图书信息</li>
+                                <li>可查询除图书的基本信息、借阅日期、截止还书日期、超期天数等</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 判断用户是否登录 -->
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <div class="text-muted bootstrap-admin-box-title">逾期信息</div>
+                        </div>
+                        <div class="bootstrap-admin-panel-content">
+                            <ul>
+                                <li>根据借阅编号、图书名称查询自己借阅的图书信息</li>
+                                <li>可查询除图书的基本信息、借阅日期、归还时期、超期天数、需缴纳的罚金等</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-------------------------修改密码------------------------------------->
+<form class="form-horizontal">
+    <!--保证样式水平不混乱-->
+    <!-- 模态框（Modal） -->
+    <div class="modal fade" id="updatepwd" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+         aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                        &times;
+                    </button>
+                    <h4 class="modal-title" id="myModalLabel">
+                        修改密码
+                    </h4>
+                </div>
+
+                <div class="modal-body">
+                    <!--正文-->
+                    <div class="form-group">
+                        <label class="col-sm-3 control-label">原密码</label>
+                        <div class="col-sm-7">
+                            <input type="password" class="form-control" id="oldPwd" placeholder="请输入原密码">
+                            <label class="control-label" for="oldPwd" style="display: none"></label>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-sm-3 control-label">新密码</label>
+                        <div class="col-sm-7">
+                            <input type="password" class="form-control" id="newPwd" placeholder="请输入新密码">
+                            <label class="control-label" for="newPwd" style="display: none"></label>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-sm-3 control-label">确认密码</label>
+                        <div class="col-sm-7">
+                            <input type="password" class="form-control" id="confirmPwd" placeholder="请输入确认密码">
+                            <label class="control-label" for="confirmPwd" style="display: none"></label>
+                        </div>
+                    </div>
+                    <!--正文-->
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">关闭
+                    </button>
+                    <button type="button" class="btn btn-primary" id="update_readerPwd">
+                        修改
+                    </button>
+                </div>
+            </div>
+            <!-- /.modal-content -->
+        </div>
+        <!-- /.modal -->
+    </div>
+</form>
+<!-------------------------------------------------------------->
+
+<!-------------------------个人资料模糊框------------------------------------->
+<form class="form-horizontal">
+    <!--保证样式水平不混乱-->
+    <!-- 模态框（Modal） -->
+    <div class="modal fade" id="updateinfo" tabindex="-1" role="dialog" aria-labelledby="ModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                        &times;
+                    </button>
+                    <h4 class="modal-title" id="ModalLabel">
+                        个人资料
+                    </h4>
+                </div>
+                <div class="modal-body">
+                    <!--正文-->
+                    <div class="form-group">
+                        <label class="col-sm-3 control-label">真实姓名</label>
+                        <div class="col-sm-7">
+                            <input type="text" class="form-control" id="name" placeholder="请输入您的真实姓名"
+                                   value="当前登录用户的姓名">
+                            <label class="control-label" for="name" style="display: none"></label>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-sm-3 control-label">联系号码</label>
+                        <div class="col-sm-7">
+                            <input type="text" class="form-control" id="phone" placeholder="请输入您的联系号码"
+                                   value="当前登录用户的联系号码">
+                            <label class="control-label" for="phone" style="display: none"></label>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-sm-3 control-label">邮箱</label>
+                        <div class="col-sm-7">
+                            <input type="text" class="form-control" id="email" placeholder="请输入您的邮箱"
+                                   value="当前登录用户的邮箱">
+                            <label class="control-label" for="email" style="display: none"></label>
+                        </div>
+                    </div>
+                    <!--正文-->
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">关闭
+                    </button>
+                    <button type="button" class="btn btn-primary" id="reader_updateInfo">
+                        修改
+                    </button>
+                </div>
+            </div>
+            <!-- /.modal-content -->
+        </div>
+        <!-- /.modal -->
+    </div>
+</form>
+<!-------------------------------------------------------------->
+</body>
+</html>

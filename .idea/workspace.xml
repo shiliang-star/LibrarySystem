@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="LibrarySystem_SL:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd419db9-957f-4ac9-8adf-5b15757efc3d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="librarysystem@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="LibrarySystem_SL" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1YnPAc3U7VBHZKuZFn6jVlNZzLj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/reader" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\19655\IdeaProjects\LibrarySystem_SL\web\reader" />
+      <recent name="C:\Users\19655\IdeaProjects\LibrarySystem_SL\web\WEB-INF\lib" />
+      <recent name="C:\Users\19655\IdeaProjects\LibrarySystem_SL\web\error" />
+      <recent name="C:\Users\19655\IdeaProjects\LibrarySystem_SL\src\com\shiliang\utils" />
+      <recent name="C:\Users\19655\IdeaProjects\LibrarySystem_SL\src\com\shiliang\utils\myspringmvc" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.shiliang.domain" />
+      <recent name="com.shiliang.utils.myspringmvc" />
+      <recent name="com.shiliang.utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\19655\IdeaProjects\LibrarySystem_SL\web\admin" />
+      <recent name="C:\Users\19655\IdeaProjects\LibrarySystem_SL\web" />
+      <recent name="C:\Users\19655\IdeaProjects\LibrarySystem_SL\web\static\js\admin\readermanage" />
+      <recent name="C:\Users\19655\IdeaProjects\LibrarySystem_SL\web\static\js\admin\readertype" />
+      <recent name="C:\Users\19655\IdeaProjects\LibrarySystem_SL\web\reader" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/LibrarySystem_SL/admin/bookManageController_getAllBookTypes.action" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/LibrarySystem_SL/admin/bookManageController_getAllBookTypes.action" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/admin/bookManageController_getAllBookTypes.action" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/admin/bookManageController_list.action" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="#org.jetbrains.idea.devkit.run.PluginConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.24">
+    <configuration name="T" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shiliang.T" />
+      <module name="LibrarySystem_SL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shiliang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rest-api#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="rest-api_1#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="T.t5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LibrarySystem_SL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shiliang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shiliang" />
+      <option name="MAIN_CLASS_NAME" value="com.shiliang.T" />
+      <option name="METHOD_NAME" value="t5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T.t6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LibrarySystem_SL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shiliang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shiliang" />
+      <option name="MAIN_CLASS_NAME" value="com.shiliang.T" />
+      <option name="METHOD_NAME" value="t6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.24" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.24" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="LibrarySystem_SL:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/LibrarySystem_SL" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_24_LibrarySystem_SL" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51129" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="60395" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="LibrarySystem_SL:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.T" />
+      <item itemvalue="HTTP Request.rest-api#1" />
+      <item itemvalue="HTTP Request.rest-api_1#1" />
+      <item itemvalue="JUnit.T.t5" />
+      <item itemvalue="JUnit.T.t6" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.24" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.T.t6" />
+        <item itemvalue="JUnit.T.t5" />
+        <item itemvalue="Application.T" />
+        <item itemvalue="HTTP Request.rest-api_1#1" />
+        <item itemvalue="HTTP Request.rest-api#1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.21320346" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="com.intellij.execution.dashboard.RunDashboardServiceViewContributor@3ea2abe" type="d2cb1801:ServiceModel$ContributorNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="com.intellij.execution.dashboard.RunDashboardServiceViewContributor@3ea2abe" type="d2cb1801:ServiceModel$ContributorNode" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="com.intellij.execution.dashboard.RunDashboardServiceViewContributor@3ea2abe" type="d2cb1801:ServiceModel$ContributorNode" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+          <option name="groupByContributor" value="true" />
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\19655\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd419db9-957f-4ac9-8adf-5b15757efc3d" name="Default Changelist" comment="" />
+      <created>1583575242323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583575242323</updated>
+      <workItem from="1583575246601" duration="4307000" />
+      <workItem from="1583586785185" duration="6281000" />
+      <workItem from="1583643006109" duration="31169000" />
+      <workItem from="1583683345959" duration="675000" />
+      <workItem from="1583727427790" duration="3065000" />
+      <workItem from="1583731347711" duration="17990000" />
+      <workItem from="1583766451005" duration="5355000" />
+      <workItem from="1583829079226" duration="12844000" />
+      <workItem from="1583892193557" duration="22062000" />
+      <workItem from="1583984137100" duration="19317000" />
+      <workItem from="1584068269284" duration="31249000" />
+      <workItem from="1584154081042" duration="26070000" />
+      <workItem from="1584244717182" duration="20058000" />
+      <workItem from="1584329501958" duration="25316000" />
+      <workItem from="1584412946068" duration="4895000" />
+      <workItem from="1584432435970" duration="4373000" />
+      <workItem from="1584441215145" duration="10244000" />
+      <workItem from="1584502436677" duration="20761000" />
+      <workItem from="1584586711207" duration="7884000" />
+      <workItem from="1584598643162" duration="22255000" />
+      <workItem from="1584671941332" duration="14113000" />
+      <workItem from="1584758380157" duration="4160000" />
+      <workItem from="1584776034614" duration="1390000" />
+      <workItem from="1584777445986" duration="869000" />
+      <workItem from="1584778333926" duration="17449000" />
+      <workItem from="1584847548553" duration="22679000" />
+      <workItem from="1584934335284" duration="15676000" />
+      <workItem from="1585015948259" duration="5417000" />
+      <workItem from="1585042607233" duration="10435000" />
+      <workItem from="1585056659287" duration="2986000" />
+      <workItem from="1585100984806" duration="11744000" />
+      <workItem from="1585191328715" duration="25101000" />
+      <workItem from="1585281260962" duration="30281000" />
+      <workItem from="1585363018175" duration="30671000" />
+      <workItem from="1585460838061" duration="20724000" />
+      <workItem from="1585543475855" duration="3002000" />
+      <workItem from="1585654470470" duration="6506000" />
+      <workItem from="1585883078080" duration="16042000" />
+      <workItem from="1585973313559" duration="17569000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Inspections" timestamp="1585406374972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1585406374972" />
+    <state x="552" y="178" key="#Notifications" timestamp="1585978972263">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1585978972263" />
+    <state x="552" y="178" key="#Project_Structure" timestamp="1583733167398">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1583733167398" />
+    <state x="552" y="178" key="#Template_Data_Languages" timestamp="1583667782741">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Template_Data_Languages/0.0.1920.1040@0.0.1920.1040" timestamp="1583667782741" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585889174499">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585889174499" />
+    <state x="713" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1585474627700">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="713" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585474627700" />
+    <state x="766" y="281" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1585898681466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="766" y="281" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585898681466" />
+    <state x="664" y="196" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1584782885343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="196" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584782885343" />
+    <state x="444" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583665959676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="444" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583665959676" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584528100017">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584528100017" />
+    <state x="715" y="222" key="#xdebugger.evaluate" timestamp="1584343847133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="222" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1584343847133" />
+    <state width="515" height="466" key="DebuggerActiveHint" timestamp="1585987965026">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="515" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1585987965026" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1584795449605">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584795449605" />
+    <state x="552" y="178" key="GrepConsoleSettings" timestamp="1585215849927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="GrepConsoleSettings/0.0.1920.1040@0.0.1920.1040" timestamp="1585215849927" />
+    <state width="1453" height="243" key="GridCell.Tab.0.bottom" timestamp="1585999403837">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1585225634011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1585225634011" />
+    <state width="1453" height="243" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585999403837" />
+    <state width="1453" height="243" key="GridCell.Tab.0.center" timestamp="1585999403837">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1585225634011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.0.center.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1585225634011" />
+    <state width="1453" height="243" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585999403837" />
+    <state width="1453" height="243" key="GridCell.Tab.0.left" timestamp="1585999403837">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1585225634011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.0.left.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1585225634011" />
+    <state width="1453" height="243" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585999403837" />
+    <state width="1453" height="243" key="GridCell.Tab.0.right" timestamp="1585999403837">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1585225634011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.0.right.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1585225634011" />
+    <state width="1453" height="243" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585999403837" />
+    <state width="1453" height="243" key="GridCell.Tab.1.bottom" timestamp="1585999403587">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.1.bottom.inPresentationMode" timestamp="1585225634012">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.1.bottom.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1585225634012" />
+    <state width="1453" height="243" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585999403587" />
+    <state width="1453" height="243" key="GridCell.Tab.1.center" timestamp="1585999403587">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.1.center.inPresentationMode" timestamp="1585225634011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.1.center.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1585225634011" />
+    <state width="1453" height="243" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585999403587" />
+    <state width="1453" height="243" key="GridCell.Tab.1.left" timestamp="1585999403587">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.1.left.inPresentationMode" timestamp="1585225634011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.1.left.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1585225634011" />
+    <state width="1453" height="243" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585999403587" />
+    <state width="1453" height="243" key="GridCell.Tab.1.right" timestamp="1585999403587">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.1.right.inPresentationMode" timestamp="1585225634011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.1.right.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1585225634011" />
+    <state width="1453" height="243" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585999403587" />
+    <state width="1453" height="243" key="GridCell.Tab.2.bottom" timestamp="1585999403587">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.2.bottom.inPresentationMode" timestamp="1585225634012">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.2.bottom.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1585225634012" />
+    <state width="1453" height="243" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585999403587" />
+    <state width="1453" height="243" key="GridCell.Tab.2.center" timestamp="1585999403587">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.2.center.inPresentationMode" timestamp="1585225634012">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.2.center.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1585225634012" />
+    <state width="1453" height="243" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585999403587" />
+    <state width="1453" height="243" key="GridCell.Tab.2.left" timestamp="1585999403587">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.2.left.inPresentationMode" timestamp="1585225634012">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.2.left.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1585225634012" />
+    <state width="1453" height="243" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585999403587" />
+    <state width="1453" height="243" key="GridCell.Tab.2.right" timestamp="1585999403587">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.2.right.inPresentationMode" timestamp="1585225634012">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.2.right.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1585225634012" />
+    <state width="1453" height="243" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585999403587" />
+    <state width="1848" height="640" key="GridCell.Tab.3.bottom" timestamp="1585475698336">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.3.bottom.inPresentationMode" timestamp="1585225634012">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.3.bottom.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1585225634012" />
+    <state width="1848" height="640" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585475698336" />
+    <state width="1848" height="640" key="GridCell.Tab.3.center" timestamp="1585475698336">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.3.center.inPresentationMode" timestamp="1585225634012">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.3.center.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1585225634012" />
+    <state width="1848" height="640" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585475698336" />
+    <state width="1848" height="640" key="GridCell.Tab.3.left" timestamp="1585475698336">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.3.left.inPresentationMode" timestamp="1585225634012">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.3.left.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1585225634012" />
+    <state width="1848" height="640" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585475698336" />
+    <state width="1848" height="640" key="GridCell.Tab.3.right" timestamp="1585475698336">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.3.right.inPresentationMode" timestamp="1585225634012">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1453" height="556" key="GridCell.Tab.3.right.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1585225634012" />
+    <state width="1848" height="640" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585475698336" />
+    <state x="621" y="189" key="SettingsEditor" timestamp="1585898720053">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="621" y="189" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585898720053" />
+    <state width="498" height="540" key="SwitcherDM" timestamp="1585658812898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="540" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1585658812898" />
+    <state x="92" y="92" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1584856485290">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584856485290" />
+    <state x="714" y="274" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1584937840328">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="274" key="com.intellij.database.run.ParametersPanel.Standalone/0.0.1920.1040@0.0.1920.1040" timestamp="1584937840328" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585973316012">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585973316012" />
+    <state x="658" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583654964311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="658" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1583654964311" />
+    <state x="530" y="165" key="com.intellij.javaee.view.ServerArtifactsDialog" timestamp="1585978620905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="530" y="165" key="com.intellij.javaee.view.ServerArtifactsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585978620905" />
+    <state x="434" y="109" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585408558988">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="434" y="109" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585408558988" />
+    <state x="511" y="256" width="897" height="605" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585475691390">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="511" y="256" width="897" height="605" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1585475691390" />
+    <state x="520" y="374" width="794" height="902" key="dock-window-1" timestamp="1585224032944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="520" y="374" width="794" height="902" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1585224032944" />
+    <state x="1011" y="99" width="794" height="824" key="dock-window-2" timestamp="1585224032944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1011" y="99" width="794" height="824" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1585224032944" />
+    <state x="513" y="115" width="786" height="900" key="find.popup" timestamp="1585997010931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="513" y="115" width="786" height="900" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585997010931" />
+    <state x="262" y="299" key="new project wizard" timestamp="1584434037988">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="262" y="299" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1584434037988" />
+    <state x="601" y="246" width="700" height="530" key="recent.locations.popup" timestamp="1585408581425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="601" y="246" width="700" height="530" key="recent.locations.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585408581425" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1584795453785">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584795453785" />
+    <state x="623" y="224" width="672" height="679" key="search.everywhere.popup" timestamp="1585989819769">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="224" width="672" height="679" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585989819769" />
+    <state x="790" y="311" key="svn.repositoryBrowser" timestamp="1583653033488">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="311" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1583653033488" />
+    <state x="725" y="385" key="svn4idea.checkout.options" timestamp="1583652358117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="725" y="385" key="svn4idea.checkout.options/0.0.1920.1040@0.0.1920.1040" timestamp="1583652358117" />
+    <state x="781" y="284" key="svn4idea.import.options" timestamp="1583653033096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="781" y="284" key="svn4idea.import.options/0.0.1920.1040@0.0.1920.1040" timestamp="1583653033096" />
+  </component>
+</project>

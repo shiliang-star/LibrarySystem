@@ -1,0 +1,43 @@
+GET http://LibrarySystem_SL/admin/bookManageController_getBookInfo.action
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/LibrarySystem_SL/admin/bookManageController_getAllBookTypes.action
+Cache-Control: no-cache
+
+<> 2020-03-13T121302.200.html
+
+###
+
+GET http://localhost:8080/LibrarySystem_SL/admin/bookManageController_getAllBookTypes.action
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-13T121234.200.html
+
+###
+
+GET http://localhost:8080/LibrarySystem_SL/admin/bookManageController_getAllBookTypes.action
+Cache-Control: no-cache
+
+<> 2020-03-13T121051.200.html
+
+###
+
+GET http://localhost:8080/admin/bookManageController_getAllBookTypes.action
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/admin/bookManageController_getAllBookTypes.action
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/admin/bookManageController_list.action
+Cache-Control: no-cache
+
+###
+
